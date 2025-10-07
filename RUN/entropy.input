@@ -1,0 +1,10 @@
+ &ENTROPY
+ NT = 00
+ NQ      =        2000,
+ ITERFACT = 40000
+ TOLERANCE = 1.e-09
+ LEGENDRE = t
+ INV_MOMENT  = t
+ LOG_MOMENT  = f
+ INPFILE = "coup.0001"
+ /

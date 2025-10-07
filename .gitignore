@@ -1,0 +1,7 @@
+*.exe
+*.mod
+*.o
+fort.*
+*~
+.*~
+test
