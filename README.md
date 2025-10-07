@@ -2,6 +2,10 @@
 
 &nbsp;
 
+[![DOI](https://zenodo.org/badge/1071499585.svg)](https://doi.org/10.5281/zenodo.17287708)
+
+&nbsp;
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Installation](#installation)
