@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Kolorenč"
+    given-names: "Přemysl"
+    orcid: "https://orcid.org/0000-0002-0747-4546"
+    affiliation: "Institute of Theoretical Physics, Charles University, Prague"
+  - family-names: "Chalúpek"
+    given-names: "Adam"
+    # affiliation: ""  # Add if available
+    # orcid: ""  # Add if available
+title: "MaxEnt"
+abstract: "Reconstruction of an energy-dependent decay width function Γ(E) from couplings to a discretized continuum using the Maximum Entropy Method (MEM) for an inverse moment problem."
+version: 1.0.0
+doi: 10.5281/zenodo.17287709
+date-released: 2025-10-07
+url: "https://github.com/pkolorenc/maxent"
+repository-code: "https://github.com/pkolorenc/maxent"
+license: MIT
+keywords:
+  - decay width
+  - inverse moment problem
+  - maximum entropy principle
